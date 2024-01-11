@@ -30,6 +30,7 @@ Passed!
 ```
 
 Exercises are distributed according to section number
+
 Section 1 exercises are placed on the `sec1` directory, so Section 2 will naturally
 reside on `sec2`.
 
